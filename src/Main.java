@@ -6,6 +6,7 @@ public class Main {
             suma += i;
         }
 //provjera
+        //provjera2
             System.out.println("Suma brojeva je: " + suma);
         }
     }
